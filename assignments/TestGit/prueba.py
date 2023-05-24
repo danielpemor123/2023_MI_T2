@@ -4,6 +4,9 @@ def suma(a, b):
 def resta(a,b):
     return a-b
 
+def mult(a,b):
+    return a*b
+
 def main():
     print(suma(2,3))
 
